@@ -9,7 +9,7 @@ Total Supply: 21,000\
 
 ## Acknowledgements
 
- - [openzeppelin](https://docs.openzeppelin.com/)
+[openzeppelin](https://docs.openzeppelin.com/)
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
